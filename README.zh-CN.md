@@ -29,6 +29,7 @@ WebView，不捆绑浏览器引擎，也没有附加运行时。应用用 Go 编
 - [Peck](https://github.com/eryajf/Peck) - macOS 菜单栏助手：检查隔离标记与签名状态，等你确认后再打开被系统拦下的应用。`macOS` · Apache-2.0
 - [听澜（Tinglan）](https://github.com/talongao/tinglan) - 非官方、实验性的华为音乐客户端，带原生音乐库、歌词、12 款主题和可悬浮的播放器。`macOS` · AGPL-3.0
 - [Viff](https://github.com/1lck/viff) - 轻量的原生 Git 客户端，支持按行暂存、并排 diff 和分页历史。`macOS` `Windows` · MIT
+- [GoIM](https://github.com/Ezreal-byte/GoIM) - 支持自动发现同一局域网内的设备，可单聊、群聊和共享文件。`macOS` `Windows` `Linux` · MIT
 
 ## 官方资源
 

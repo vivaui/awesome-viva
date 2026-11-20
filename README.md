@@ -30,6 +30,7 @@ Applications built with Viva whose source is public.
 - [Peck](https://github.com/eryajf/Peck) - A macOS menu bar assistant that inspects quarantine and code-signing state, then opens a blocked app after you confirm. `macOS` · Apache-2.0
 - [Tinglan](https://github.com/talongao/tinglan) - An unofficial, experimental Huawei Music client with a native library, lyrics, twelve themes and a dockable player. `macOS` · AGPL-3.0
 - [Viff](https://github.com/1lck/viff) - A lightweight native Git client with line staging, side-by-side diffs and paginated history. `macOS` `Windows` · MIT
+- [GoIM](https://github.com/Ezreal-byte/GoIM) - A desktop messenger with automatic device discovery, direct and group chat, and file sharing over a local network. `macOS` `Windows` `Linux` · MIT
 
 ## Official resources
 
